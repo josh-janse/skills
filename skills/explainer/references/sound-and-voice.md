@@ -1,10 +1,10 @@
 # Sound and voice
 
-Sound is the last stage. It starts once the picture is locked.
+Sound is usually the last stage, starting once the picture is locked. The voice-over can also come first (see below).
 
 ## Voice-over
 
-- Write and record the voice-over after the footage is made, so the script follows the picture rather than the picture being cut to fit the script.
+- Record the voice-over either way round. Recorded after the footage, the script follows the picture. Recorded first, the scene times come from the pauses in the recording, as in the painterly kit.
 - Start from the draft lines in the beat list, then rewrite each one against the locked picture so the words land when the matching thing appears on screen.
 - Read the final script aloud against the picture before recording.
 - ElevenLabs works well for generating the voice.

@@ -78,10 +78,11 @@ Verify:
 - [ ] Voice-over matches what is on screen at each moment.
 - [ ] Music sits low and runs continuously; effects are real recordings.
 - [ ] No frames are blank, cropped wrongly or left over from an earlier version.
+- [ ] Reel: text and key action stay inside the safe box (x 60–960, y 250–1470).
 
 ## Rendering
 
-How frames are rendered is still an open decision. See [scripts/README.md](scripts/README.md) for the options.
+For the painted look, use the kit in [josh-janse/painterly-explainers](https://github.com/josh-janse/painterly-explainers): copy the latest episode package and replace its timeline, layout and scenes. It renders landscape (1920×1080) and a 9:16 reel. Setup, structure, commands and safe zones are in [references/painterly-production.md](references/painterly-production.md).
 
 ## Reference files
 
@@ -91,3 +92,4 @@ How frames are rendered is still an open decision. See [scripts/README.md](scrip
 | [references/house-style.md](references/house-style.md) | Exact finishing settings and look rules |
 | [references/techniques.md](references/techniques.md) | Each technique and when to use it |
 | [references/sound-and-voice.md](references/sound-and-voice.md) | Voice-over, sound effects and music |
+| [references/painterly-production.md](references/painterly-production.md) | Rendering with the painterly kit, both formats, checks that caught real problems |
